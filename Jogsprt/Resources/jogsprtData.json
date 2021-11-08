@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1001,
+    "name": "王子公園Aコース",
+    "distance": 895,
+    "elevation": 20,
+    "calorie": 39,
+    "station": "王子公園駅",
+    "coordinates": {
+      "longitude": 135.215307,
+      "latitude": 34.711063
+    },
+    "imageName": "oujiA",
+    "isFavorite": true
+  },
+  {
+    "id": 1002,
+    "name": "王子公園Bコース",
+    "distance": 650,
+    "elevation": 12,
+    "calorie": 28,
+    "station": "王子公園駅",
+    "coordinates": {
+      "longitude": 135.215307,
+      "latitude": 34.711063
+    },
+    "imageName": "oujiB",
+    "isFavorite": false
+  },
+  {
+    "id": 1003,
+    "name": "王子公園外周コース",
+    "distance": 1800,
+    "elevation": 42,
+    "calorie": 52,
+    "station": "王子公園駅",
+    "coordinates": {
+      "longitude": 135.215307,
+      "latitude": 34.711063
+    },
+    "imageName": "oujiG",
+    "isFavorite": false
+  },
+  {
+    "id": 1004,
+    "name": "みなとのもり公園コース",
+    "distance": 440,
+    "elevation": 4,
+    "calorie": 19,
+    "station": "貿易センター　＊神戸三宮からは20分",
+    "coordinates": {
+      "longitude": 135.200694,
+      "latitude": 34.686757
+    },
+    "imageName": "minatomori",
+    "isFavorite": false
+  },
+  {
+    "id": 1005,
+    "name": "nodate",
+    "distance": 0,
+    "elevation": 0,
+    "calorie": 0,
+    "station": "",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    },
+    "imageName": "",
+    "isFavorite": false
+  }
+]
